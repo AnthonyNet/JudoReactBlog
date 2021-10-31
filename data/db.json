@@ -1,0 +1,9 @@
+{
+    "blogs": [
+        {"title": "My new website", "body": "lorem ipsum", "author": "mario", "id": 1},
+        {"title": "Welcome", "body": "lorem ipsum...", "author": "Bláža", "id": 2},
+        {"title": "Web dev tips", "body": "lorem ipsum...", "author": "Milan", "id": 3},
+        {"title": "Solana crypto", "body": "lorem ipsum...", "author": "mario", "id": 4}
+
+    ]
+}
