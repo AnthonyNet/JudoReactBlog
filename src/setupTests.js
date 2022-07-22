@@ -11,6 +11,3 @@ import '@testing-library/jest-dom';
 
 
 
-git add .
-git commit --date="230 days ago" -m "add comp"
-git push origin main
