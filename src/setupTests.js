@@ -5,6 +5,5 @@
 import '@testing-library/jest-dom';
 
 
-git add .
-git commit --date="101 days ago" -m "add comp"
-git push orin main
+
+
